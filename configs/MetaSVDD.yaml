@@ -1,0 +1,9 @@
+
+
+dataset_dir: '../../datasets/medical/skin cancer/isic'
+backbone: 'b0'
+R: 0.0
+nu: 0.1
+batch_size: 32
+num_epochs: 60
+num_imgs: 3000
